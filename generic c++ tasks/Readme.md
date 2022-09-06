@@ -7,6 +7,7 @@
 #include <string>
 #include <cmath>
 #include <iostream>
+#include <bits/stdc++.h>
 #include <fstream>
 ```
 ## About program:

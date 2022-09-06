@@ -10,4 +10,7 @@
 - **Recusive programs**
 - **Stack** 
 - **Tree**
+- **Greedy algorithms**
+- **Queue List**
+- **Queue Circular**
  
